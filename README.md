@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1>Hi 👋, I'm Mahmoud Atta</h1>
+<h3>Mobile Application Developer (Flutter)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+	<a href="https://twitter.com/MAhmoud09269747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felipe_elia" height="30" /></a>&nbsp;
+	<a href="https://www.linkedin.com/in/mahmoud-atta-a54b8624a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeelia" height="30" /></a> &nbsp;
+	<a href="https://www.facebook.com/MAhmoudAtta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+	<a href="https://www.instagram.com/ma7moudatta_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+</p>
 
 <!--
 **mahmoudatta80/mahmoudatta80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
