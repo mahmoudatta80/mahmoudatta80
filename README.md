@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Mahmoud Atta</h1>
 <h3>Mobile Application Developer (Flutter)
-<h4>I am student in the Department of Electronics and Communications, Faculty of Engineering, Mansoura University
+<h5>I am student in the Department of Electronics and Communications, Faculty of Engineering, Mansoura University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
