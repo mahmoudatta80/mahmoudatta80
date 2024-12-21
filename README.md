@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudatta80" alt="mahmoudatta80" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmoud09269747" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud09269747?logo=twitter&style=for-the-badge" alt="mahmoud09269747" /></a> </p>
-
 - 📫 How to reach me **mahmoudatta8800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
